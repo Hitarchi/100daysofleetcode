@@ -1,7 +1,9 @@
 # 100daysofleetcode
 
 I will be starting #100daysofleetcode 
+
 And the upload structure of the folder wise for each day of upload as
+
 https://github.com/Hitarchi/100daysofleetcode/ Day1_ProblemName and Day2_ProblemName
 
 
